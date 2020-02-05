@@ -2,7 +2,7 @@
 This program was created as credit program on MFF UK in winter semester 2019/2020
 
 ## User guide
-###How to play?
+### How to play?
 To play the game just clone repo or download the project.
 Then type this command in corresponding directory
 ````shell script
